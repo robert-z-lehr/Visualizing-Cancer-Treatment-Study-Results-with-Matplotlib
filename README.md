@@ -17,3 +17,6 @@ After data wrangling is completed, tables, figures and a top-level summary are g
 
 ### __Results:__
 ![Linear Regression](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/blob/main/images/linear-regression-tumor-weight.png)
+![Mice Sex Distribution](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/blob/main/images/mice-sex-distribution.png)
+![Times Tested](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/blob/main/images/times-tested-per-regimen.png)
+![Tumor Volume Distribution Boxplot](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/blob/main/images/tumor-volume-distribution.png)
