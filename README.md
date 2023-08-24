@@ -1,6 +1,5 @@
 ## Visualizing Cancer Treatment Study
 
-
 ### __Tools/Techniques Used:__
 - __Matplotlib:__ Utilized to create a variety of data visualizations, including bar charts, pie charts, line plots, scatter plots, and box plots.
 - __Data Preparation:__ Cleaning and merging data using Pandas DataFrames.
